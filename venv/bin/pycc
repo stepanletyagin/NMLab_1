@@ -1,0 +1,3 @@
+#!/Users/stepanletyagin/Desktop/BMSTU/6_semestr/NumericalMethods/Labs/Lab_1/venv/bin/python
+from numba.pycc import main
+main()
